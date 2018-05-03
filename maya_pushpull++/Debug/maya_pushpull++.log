@@ -1,0 +1,43 @@
+﻿  PPPPMesh.cpp
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\kmean.cpp(22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\kmean.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\kmean.cpp(124): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(116): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(679): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(688): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(709): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(727): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(775): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(788): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(801): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(996): warning C4305: '+=': truncation from 'double' to 'float'
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(1105): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(1536): warning C4305: '+=': truncation from 'double' to 'float'
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(1542): warning C4305: '+=': truncation from 'double' to 'float'
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(1805): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\ppppmesh.cpp(1825): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  MayaPushPullPPCmd.cpp
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(89): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(104): warning C4018: '<': signed/unsigned mismatch
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cis660\p4\maya_pushpull++_ptii\maya_pushpull++\maya_pushpull++\mayapushpullppcmd.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  maya_pushpull++.vcxproj -> D:\cis660\p4\maya_pushpull++_PtII\maya_pushpull++\maya_pushpull++\Debug\maya_pushpull++.mll
+  maya_pushpull++.vcxproj -> Debug\maya_pushpull++.pdb (Partial PDB)
