@@ -159,14 +159,17 @@ void PPPPMesh::writeToMFnMesh(MFnMesh& mesh)
 	MGlobal::executeCommand(cmd1);
 
 	MString cmd2("select ");
-	cmd2 += objM.name();
+	cmd2 += objT.name();
 	MGlobal::displayInfo(cmd2);
 	MGlobal::executeCommand(cmd2);
-
 
 	MString cmd3("polySoftEdge -a 0");
 	MGlobal::displayInfo(cmd3);
 	MGlobal::executeCommand(cmd3);
+
+	MString cmd33("xform -cp");
+	MGlobal::displayInfo(cmd33);
+	MGlobal::executeCommand(cmd33);
 
 	MString cmd4("select -clear");
 	MGlobal::displayInfo(cmd4);

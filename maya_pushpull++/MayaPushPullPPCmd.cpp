@@ -13,6 +13,7 @@
 #include <maya\MItMeshEdge.h>
 #include <maya\MPointArray.h>
 #include <maya\MArgList.h>
+#include <maya\MFnTransform.h>
 #include "PPPPMesh.h"
 
 MayaPushPullPPCmd::MayaPushPullPPCmd() : 
@@ -157,11 +158,16 @@ MStatus MayaPushPullPPCmd::doIt(const MArgList& args)
 		//meshP4.printMesh();//
 		
 		MGlobal::displayInfo(MString("<<<<<<write start>>>>>>"));
-		meshP4.writeToMFnMesh(meshEx);
+		MFnMesh meshExx;
+		meshP4.writeToMFnMesh(meshExx);
 		MGlobal::displayInfo(MString("<<<<<<write finish>>>>>>"));
 
 
 		MGlobal::displayInfo(MString("<<<<<<finish>>>>>>"));
+
+		//delete the original mesh
+		MFnTransform transformEx(meshEx.parent(0));
+		MGlobal::executeCommand(MString("delete ") + transformEx.name(), true, true);
 
 		//dagPath.extendToShape();
 	}
